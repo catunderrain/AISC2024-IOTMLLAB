@@ -1,3 +1,5 @@
+![Image](mp_hand.png)
+
 Nguyên lý hoạt động của Mediapipe Hand dựa trên việc kết hợp các kỹ thuật phát hiện đối tượng, mạng neural, và theo dõi chuyển động. Dưới đây là các bước chính:
 
 1. **Phát hiện bàn tay**:
