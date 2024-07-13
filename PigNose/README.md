@@ -1,6 +1,6 @@
 
 # Project: FACE DIRECTION & FACE FILTER
-    Inbox me if these is any problem or issue, or email: catunderrainvn@gmail.com
+    If you encounter any issues, feel free to inbox me or email: catunderrainvn@gmail.com
 ---
 ## Installation
 ### Step 1: Install Dlib
@@ -57,6 +57,6 @@ Result:
 |![](glass.png)|![](GLASSNOSE.png)|
 ---
 # CONCLUSION
-**In further, you can replace Pignose or Glass with any features you want, improve this with your own code and must to understand that, this projects give you a nice look of what Machine Learning can do to imporve life experience of us. However, this is just funny, NOT a real thing or serious stuff that get you an AI/ML student. Keep going, keep exploring and keep, mother keep.**
-
+**In further, you can replace Pignose or Glass with any features you want, improve this with your own code and must to understand that. This projects give you a nice look of what Machine Learning can do to enhance life experience of us. However, this is just a fun glimpse, NOT a real thing or serious stuff that get you an AI/ML student. Keep going, keep exploring and keep, mother keep.**
+ 
 Thai Toan
