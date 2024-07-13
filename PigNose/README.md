@@ -5,7 +5,7 @@
 ## Installation
 ### Step 1: Install Dlib
 - Go to link [Dlib](https://github.com/z-mahmud22/Dlib_Windows_Python3.x)<br>
-- Download the right .whl file for your python version (download by click to the right .whl file, then tự mò lấy :v)
+- Download the right .whl file for your python version (download by click to the right .whl file, then, you must to tự mò mẫm)
 
     |Version|Download|
     |:-:|:-:|
