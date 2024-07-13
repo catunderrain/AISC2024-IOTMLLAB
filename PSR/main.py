@@ -11,7 +11,7 @@ thumb_Coord = (4, 2)
 
 while True:
     success, image = cap.read()
-    image = cv2.flip(image, 1)
+    image = cv2.flip(image, 2)
     RGB_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     results = hands.process(RGB_image)
     multiLandMarks = results.multi_hand_landmarks
