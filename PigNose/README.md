@@ -10,14 +10,13 @@
     |Version|Download|
     |:-:|:-:|
     |![](version.png)|![](download.png)|
-
+- I also downloaded a .whl file for python v12 in this folder, which is `dlib-19.24.99-cp312-cp312-win_amd64.whl`, if there be any issues in your website downloading process, you can use this file instead.
 - After having your .whl file on you laptop, move this file to your Desktop
 - Open CMD, and use 'cd' command to cd your current directory to Desktop, for example `cd c:\users\lenovo\desktop` on window (linux and mac check ysf :D)
     ```
     C:\Users\Lenovo>cd desktop
     C:\Users\Lenovo\Desktop>
     ```
-- I also downloaded a .whl file for python v12 in this folder, which is `dlib-19.24.99-cp312-cp312-win_amd64.whl`, if there be any issues in your website downloading process, you can use this file instead.
 - After that, run the install pip command like, in the link above, for ex with python 12:
 
     `python -m pip install dlib-19.24.99-cp312-cp312-win_amd64.whl`
