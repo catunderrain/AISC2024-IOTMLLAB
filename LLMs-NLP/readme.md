@@ -93,7 +93,7 @@ Sure! Here's a detailed outline for your presentation on Large Language Models (
 
 ### 11. Ethical Considerations
 - **Bias in AI Models**
-- **Privacy Concerns**
+- **Privacy Concerns**  
 - **Misuse of NLP Technologies**
 - **Transparency and Explainability**
 - **Fairness and Accountability**
