@@ -9,7 +9,7 @@ def sigmoid(x):
 
 def dis_softmax():
     xs = [i/10 for i in range(-160,160,1)]
-    ys = [sigmoid(x) for x in xs]
+    ys = [sigmoid(x) for x Qxs]
     
     plt.plot(xs,ys)
     plt.scatter(5,sigmoid(5),c='r')
@@ -20,4 +20,5 @@ def dis_softmax():
 
 if __name__ == '__main__':
     dis_softmax()
+    
     pass
