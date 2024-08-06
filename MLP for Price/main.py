@@ -48,7 +48,6 @@ print(X); print(y)
 class MLP(nn.Module):
     def __init__(self, size):
         super(MLP, self).__init__()
-        hd_size = 10
         self.size = size
         self.hidden = nn.Linear(3, self.size)
         self.output = nn.Linear(self.size, 1)
@@ -60,12 +59,12 @@ class MLP(nn.Module):
 
 
 l = []
-for i in range(1,11):
+for i in range(1,21):
     model = MLP(i)
     criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters(), lr=0.01)
 
-    epochs = 500
+    epochs = 1000
     losses = []
     for epoch in range(epochs):
         model.train()

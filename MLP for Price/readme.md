@@ -33,3 +33,9 @@ Bedrooms|Area|Age|Price
 
 ### Result
 `Giá trị dự đoán: [[ 998.       501.00003 1205.     ]]`
+
+### 1-20 lr=0.01
+![alt text](image-7.png)
+
+- lr=0.1
+![alt text](image-8.png)
